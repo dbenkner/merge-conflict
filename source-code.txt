@@ -3,3 +3,4 @@ Bugfix v1.5
 Enhancement v2.0
 Bugfix v2.5
 Bugfix v2.5.1
+Bugfix v2.5.3
